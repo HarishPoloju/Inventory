@@ -1,0 +1,18 @@
+{
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Supplier 1",
+      "contactperson": "John Doe",
+      "phone": "123-456-7890",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Supplier 2",
+      "contactperson": "Jane Smith",
+      "phone": "987-654-3210",
+      "email": "jane@example.com"
+    }
+  ]
+}
